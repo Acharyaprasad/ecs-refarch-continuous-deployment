@@ -44,7 +44,7 @@ Deploy | Region Name | Region | Launch Types
 [🚀][us-east-1] | US East (N. Virginia) | us-east-1 | Fargate, EC2
 [🚀][us-east-1] | US East (Ohio) | us-east-2 | EC2
 [🚀][us-west-1] | US West (N. California) | us-west-1 | EC2
-[🚀][us-west-2] | US West (Oregon) | us-west-2 | EC2
+[🚀][us-east-1] | US West (Oregon) | us-west-2 | EC2
 [🚀][eu-west-1] | EU (Ireland) | eu-west-1 | EC2
 [🚀][eu-west-2] | EU (London) | eu-west-2 | EC2
 [🚀][eu-central-1] | EU (Frankfurt) | eu-central-1 | EC2
